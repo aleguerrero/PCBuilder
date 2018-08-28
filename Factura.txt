@@ -1,0 +1,8 @@
+Partes:
+Procesador: Intel i5 7600K @ 3.5GHz Precio: 249
+Tarjeta Madre: MSI H270 Socket LGA1151 Precio: 100
+RAM: G.SKILL Ripjaws V RGB Memoria RAM: 32GB Tipo Memoria: DDR4 @ 3400MHz Precio: 239
+Tarjeta Gráfica: Nvidia GTX 1070 Memoria VRAM: 8GB Tipo de SGRAM: GDDR5 Precio: 329
+Disco Duro: WD WD4096100 Memoria: 4TB Velocidad: 1000RPM Precio: 130
+Fuente de Poder: EVGA 600WB Wattage 600W Certificado: Bronce Precio: 70
+Precio: 1117
